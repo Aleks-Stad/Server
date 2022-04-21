@@ -1,0 +1,2 @@
+{"id":1,"winnerId":"Игрок 1","loserId":"Игрок 2"}
+{"id":2,"winnerId":"Игрок 2","loserId":"Игрок 1"}
